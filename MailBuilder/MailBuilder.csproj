@@ -40,7 +40,7 @@
   <ItemGroup>
     <Compile Include="BuilderInterfaces.cs" />
     <Compile Include="Mail.cs" />
-    <Compile Include="MailToMailBuilder.cs" />
+    <Compile Include="BuilderImplementations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -6,10 +6,10 @@
     <e p="C:\Users\eliyy\RiderProjects\MailBuilder" t="IncludeFlat">
       <e p="MailBuilder" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="BuilderImplementations.cs" t="Include" />
         <e p="BuilderInterfaces.cs" t="Include" />
         <e p="Mail.cs" t="Include" />
         <e p="MailBuilder.csproj" t="IncludeRecursive" />
-        <e p="MailToMailBuilder.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
